@@ -22,6 +22,7 @@
     "lucide-react": "^0.438.0",
     "next": "^14.2.8",
     "react": "^18",
+    "react-datepicker": "^7.3.0",
     "react-dom": "^18",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7"
@@ -29,6 +30,7 @@
   "devDependencies": {
     "@types/node": "^20.16.5",
     "@types/react": "^18.3.5",
+    "@types/react-datepicker": "^7.0.0",
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.2.8",
